@@ -1,0 +1,9 @@
+[core]
+    remote = atto_gdrive_storage
+['remote "atto_gdrive_storage"']
+    url = gdrive://1i7ScLiA15K0c8g6Ul3wiYcooPWhxADS1
+    gdrive_client_id = 43384917480-u4fssckoloktlg4d1sr52mg6t6ocamd9.apps.googleusercontent.com
+    gdrive_client_secret = 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
+    gdrive_acknowledge_abuse = true
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../../formal-wonder-416308-1d2c638ec3ec.json
